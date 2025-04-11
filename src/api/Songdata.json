@@ -1,0 +1,123 @@
+
+     [
+      {
+        "title": "Midnight Drive",
+        "thumbnail": "/thumbnails/midnightdrive.jpg",
+        "musicUrl": "/songs/midnight_drive.mp3",
+        "duration": "3:45",
+        "artistName": "Luna Waves"
+      },
+      {
+        "title": "Ocean Breeze",
+        "thumbnail": "/thumbnails/OceanBreeze.jpg",
+        "musicUrl": "/songs/ocean_breeze.mp3",
+        "duration": "4:12",
+        "artistName": "Coral Skies"
+      },
+      {
+        "title": "Neon Nights",
+        "thumbnail": "/thumbnails/NeonNights.jpg",
+        "musicUrl": "/songs/neon_nights.mp3",
+        "duration": "3:58",
+        "artistName": "Electric Soul"
+      },
+      {
+        "title": "Sunset Boulevard",
+        "thumbnail": "/thumbnails/SunsetBoulevard.jpg",
+        "musicUrl": "/songs/sunset_blvd.mp3",
+        "duration": "4:21",
+        "artistName": "Amber Vibe"
+      },
+      {
+        "title": "Rainy City",
+        "thumbnail": "/thumbnails/RainyCity.jpg",
+        "musicUrl": "/songs/rainy_city.mp3",
+        "duration": "5:02",
+        "artistName": "Clouded Minds"
+      },
+      {
+        "title": "Dreamstate",
+        "thumbnail": "/thumbnails/Dreamstate.jpg",
+        "musicUrl": "/songs/dreamstate.mp3",
+        "duration": "3:33",
+        "artistName": "Echo Realm"
+      },
+      {
+        "title": "Funky Rush",
+        "thumbnail": "/thumbnails/FunkyRush.jpg",
+        "musicUrl": "/songs/funky_rush.mp3",
+        "duration": "2:58",
+        "artistName": "Groove Machine"
+      },
+      {
+        "title": "Sky High",
+        "thumbnail": "/thumbnails/SkyHigh.jpg",
+        "musicUrl": "/songs/sky_high.mp3",
+        "duration": "4:05",
+        "artistName": "Flight Mode"
+      },
+      {
+        "title": "Crystal Lake",
+        "thumbnail": "/thumbnails/CrystalLake.jpg",
+        "musicUrl": "/songs/crystal_lake.mp3",
+        "duration": "3:50",
+        "artistName": "Silent Horizon"
+      },
+      {
+        "title": "Moonwalker",
+        "thumbnail": "/thumbnails/Moonwalker.jpg",
+        "musicUrl": "/songs/moonwalker.mp3",
+        "duration": "3:20",
+        "artistName": "Retro Beam"
+      },
+      {
+        "title": "Golden Hour",
+        "thumbnail": "/thumbnails/GoldenHour.jpg",
+        "musicUrl": "/songs/golden_hour.mp3",
+        "duration": "4:17",
+        "artistName": "Aurora Beats"
+      },
+      {
+        "title": "Chill Factor",
+        "thumbnail": "/thumbnails/ChillFactor.jpg",
+        "musicUrl": "/songs/chill_factor.mp3",
+        "duration": "4:08",
+        "artistName": "Vapor Trail"
+      },
+      {
+        "title": "Nightfall",
+        "thumbnail": "/thumbnails/Nightfall.jpg",
+        "musicUrl": "/songs/nightfall.mp3",
+        "duration": "3:47",
+        "artistName": "Shadow Play"
+      },
+      {
+        "title": "Cosmic Dust",
+        "thumbnail": "/thumbnails/CosmicDust.jpg",
+        "musicUrl": "/songs/cosmic_dust.mp3",
+        "duration": "5:10",
+        "artistName": "Nova Pulse"
+      },
+      {
+        "title": "Retro Dreams",
+        "thumbnail": "/thumbnails/RetroDreams.jpg",
+        "musicUrl": "/songs/retro_dreams.mp3",
+        "duration": "3:38",
+        "artistName": "Synthwave Syndicate"
+      },
+      {
+        "title": "Forest Lullaby",
+        "thumbnail": "/thumbnails/ForestLullaby.jpg",
+        "musicUrl": "/songs/forest_lullaby.mp3",
+        "duration": "4:26",
+        "artistName": "Nature Notes"
+      },
+      {
+        "title": "Digital Love",
+        "thumbnail": "/thumbnails/DigitalLove.jpg",
+        "musicUrl": "/songs/digital_love.mp3",
+        "duration": "3:15",
+        "artistName": "Pixel Heart"
+      }
+    ]
+  
