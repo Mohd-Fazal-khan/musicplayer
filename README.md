@@ -47,3 +47,8 @@ A full-stack web music player application built using the MERN stack. BeatBox al
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Mohd-Fazal-khan/musicplayer
+
+npm install
+```
+### Run your Project
+  ``` npm run dev ```
