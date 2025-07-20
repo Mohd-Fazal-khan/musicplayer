@@ -1,12 +1,49 @@
-# React + Vite
+# 🎵 BeatBox - MERN Stack Music Player  
+A full-stack web music player application built using the MERN stack. BeatBox allows users to stream music, manage playlists, upload tracks, and enjoy a modern, responsive UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## 🎧 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎼 Play, Pause, Seek audio tracks
+- 🧾 Playlist Management (Create/Delete)
+- ⬆️ Upload your own songs (MP3 support)
+- 👤 User Authentication with JWT
+- 📂 Browse uploaded tracks by all users
+- 📱 Fully Responsive Design
+- 🔍 Search by track name or artist
+- 🎨 Dark/Light theme toggle (optional)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+### Frontend
+- React.js (Vite or CRA)
+- Tailwind CSS or Bootstrap
+- Axios for API calls
+- React Router DOM
+- React Icons & Audio Controls API
+
+### Backend
+- Node.js + Express.js
+- MongoDB + Mongoose
+- Multer or Cloudinary for song uploads
+- JWT for user authentication
+- CORS & dotenv
+
+---
+
+## 📦 Getting Started
+
+### 🔧 Prerequisites
+- Node.js & npm
+- MongoDB Atlas Account
+- Cloudinary (optional for file hosting)
+
+---
+
+## 🚀 Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Mohd-Fazal-khan/musicplayer
